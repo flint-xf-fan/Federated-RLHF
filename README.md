@@ -2,6 +2,8 @@
 
 [![AAMAS 2025](https://img.shields.io/badge/AAMAS-2025-blue)](https://aamas2025.com)  
 
+[![FedRLHF](FedRLHF-problem.png)](FedRLHF-problem.pdf)
+
 ## Overview
 This repository contains the official implementation of **FedRLHF: A Convergence-Guaranteed Federated Framework for Privacy-Preserving and Personalized Reinforcement Learning with Human Feedback**, as presented at **AAMAS 2025**. 
 
