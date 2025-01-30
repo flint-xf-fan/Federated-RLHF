@@ -61,7 +61,10 @@ FedRLHF/
 Ensure you have the following installed:
 - Python >= 3.8
 - Conda or Virtualenv (for environment setup)
+- Flower
+- (updating..)
 
+- 
 ### Setup
 
 1. **Clone the Repository**:
