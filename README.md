@@ -53,6 +53,7 @@ FedRLHF/
 ```
 
 ---
+⚠️ we are still testing the setup & configuration script. we will update this page once everything is ready ⚠️
 
 ## Getting Started
 
