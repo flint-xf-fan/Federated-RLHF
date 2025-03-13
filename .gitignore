@@ -1,0 +1,8 @@
+.DS_Store
+datasets
+__pycache__
+*/__pycache_
+*/trained_models
+exp-LLM-IMDB/evaluation_logs/
+exp-LLM-IMDB/training_logs/
+
