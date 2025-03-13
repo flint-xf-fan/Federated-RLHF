@@ -4,6 +4,14 @@
 
 [![FedRLHF](FedRLHF-problem.png)](FedRLHF-problem.pdf)
 
+### (updating...) Code release progress
+⚠️ we are still testing the setup & configuration script. we will update this page once everything is ready ⚠️
+
+- [x] [IMDB experiments] code setup and scripts uploaded
+- [ ] [IMDB experiments] code clean up, test and detailed instructions
+- [ ] [MovieLens experiments] code setup and scripts upload
+- [ ] [MovieLens experiments] code clean up, test and detailed instructions
+
 ## Overview
 This repository contains the official implementation of **FedRLHF: A Convergence-Guaranteed Federated Framework for Privacy-Preserving and Personalized Reinforcement Learning with Human Feedback**, as presented at **AAMAS 2025**. 
 
@@ -53,7 +61,6 @@ FedRLHF/
 ```
 
 ---
-⚠️ we are still testing the setup & configuration script. we will update this page once everything is ready ⚠️
 
 ## Getting Started
 
