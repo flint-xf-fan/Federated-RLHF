@@ -5,7 +5,7 @@
 [![FedRLHF](FedRLHF-problem.png)](FedRLHF-problem.pdf)
 
 ### (updating...) Code release progress
-⚠️ we are still testing the setup & configuration script. we will update this page once everything is ready ⚠️
+⚠️ we are still testing the setup & configuration script. we will update this page once everything is ready ⚠️ (expected to be completed around the conference dates ie. in late May)
 
 - [x] [IMDB experiments] code setup and scripts uploaded
 - [ ] [IMDB experiments] code clean up, test and detailed instructions
