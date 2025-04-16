@@ -1,6 +1,8 @@
 # FedRLHF: A Convergence-Guaranteed Framework for Privacy-Preserving and Personalized RLHF
 
-[![AAMAS 2025](https://img.shields.io/badge/AAMAS-2025-blue)](https://aamas2025.com)  
+[![AAMAS 2025](https://img.shields.io/badge/AAMAS-2025-blue)](https://aamas2025.com)
+[![GitHub Repo stars](https://img.shields.io/github/stars/flint-xf-fan/Federated-RLHF?style=social)](https://github.com/flint-xf-fan/Federated-RLHF)
+
 
 [![FedRLHF](FedRLHF-problem.png)](FedRLHF-problem.pdf)
 
