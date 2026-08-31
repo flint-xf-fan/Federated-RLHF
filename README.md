@@ -1,3 +1,5 @@
+
+
 # FedRLHF: A Convergence-Guaranteed Framework for Privacy-Preserving and Personalized RLHF
 
 [![AAMAS 2025](https://img.shields.io/badge/AAMAS-2025-blue)](https://aamas2025.com)
@@ -86,7 +88,8 @@ Ensure you have the following installed:
 2. **Install Dependencies**:
    For IMDb:
    ```bash
-   pip install -r IMDb/req.txt
+   conda env create -f exp-LLM-IMDB/environment.yml
+   conda activate fedrlhf
    ```
    For MovieLens:
    ```bash
